@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christine</h1>
-<h3 align="center">A passionate frontend developer from Canada</h3>
+<h3 align="center">A goal-oriented individual with a pleasant personality and a 'whatever-it-takes' mindset.</h3>
 
 ---
 
