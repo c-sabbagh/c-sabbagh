@@ -27,9 +27,14 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=c-sabbagh&show_icons=true&locale=en&layout=compact" alt="c-sabbagh" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=c-sabbagh&show_icons=true&locale=en" alt="c-sabbagh" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=c-sabbagh&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=c-sabbagh&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=c-sabbagh&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=c-sabbagh&" alt="c-sabbagh" /></p>
+</div>  
+
+---
 
